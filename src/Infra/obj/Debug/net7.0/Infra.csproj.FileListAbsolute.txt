@@ -1,0 +1,17 @@
+D:\Projetos\ASPNET\Contacts\src\Infra\bin\Debug\net7.0\Infra.deps.json
+D:\Projetos\ASPNET\Contacts\src\Infra\bin\Debug\net7.0\Infra.runtimeconfig.json
+D:\Projetos\ASPNET\Contacts\src\Infra\bin\Debug\net7.0\Infra.dll
+D:\Projetos\ASPNET\Contacts\src\Infra\bin\Debug\net7.0\Infra.pdb
+D:\Projetos\ASPNET\Contacts\src\Infra\bin\Debug\net7.0\Domain.dll
+D:\Projetos\ASPNET\Contacts\src\Infra\bin\Debug\net7.0\Domain.pdb
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.dll
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\refint\Infra.dll
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.pdb
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\Infra.genruntimeconfig.cache
+D:\Projetos\ASPNET\Contacts\src\Infra\obj\Debug\net7.0\ref\Infra.dll
